@@ -1,0 +1,42 @@
+@import "fonts";
+@import "form";
+
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Jost, sans-serif;
+
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+
+  background: linear-gradient(0deg, #e0a112, #ebd911);
+  background-size: 400% 400%;
+
+  -webkit-animation: bgAnimate 10s ease infinite;
+  -moz-animation: bgAnimate 10s ease infinite;
+  animation: bgAnimate 10s ease infinite;
+}
+
+@-webkit-keyframes bgAnimate {
+  0%{background-position:51% 0%}
+  50%{background-position:50% 100%}
+  100%{background-position:51% 0%}
+}
+@-moz-keyframes bgAnimate {
+  0%{background-position:51% 0%}
+  50%{background-position:50% 100%}
+  100%{background-position:51% 0%}
+}
+@keyframes bgAnimate {
+  0%{background-position:51% 0%}
+  50%{background-position:50% 100%}
+  100%{background-position:51% 0%}
+}
+

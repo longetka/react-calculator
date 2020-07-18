@@ -1,0 +1,9 @@
+.calcItem {
+  width: 350px;
+  font-size: 1.1rem;
+  margin: 0 auto;
+  &:after {
+    content: ' \20BD';
+  }
+}
+

@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { Route, HashRouter, NavLink } from 'react-router-dom'
 import Execute from './Execute'
 import Credit from './Credit'
+import Footer from './Footer'
 import './styles/App.scss'
 
 class App extends Component {
@@ -21,6 +22,7 @@ class App extends Component {
             <Route exact path="/" component={Execute} />
             <Route path="/credit" component={Credit} />
           </div>
+          <Footer />
         </div>
       </HashRouter>
     )

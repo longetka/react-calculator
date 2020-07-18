@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-calculator/static/css/main.1dbe2909.chunk.css",
+    "main.js": "/react-calculator/static/js/main.1e80ae42.chunk.js",
+    "main.js.map": "/react-calculator/static/js/main.1e80ae42.chunk.js.map",
+    "runtime-main.js": "/react-calculator/static/js/runtime-main.d01d9399.js",
+    "runtime-main.js.map": "/react-calculator/static/js/runtime-main.d01d9399.js.map",
+    "static/js/2.42795050.chunk.js": "/react-calculator/static/js/2.42795050.chunk.js",
+    "static/js/2.42795050.chunk.js.map": "/react-calculator/static/js/2.42795050.chunk.js.map",
+    "index.html": "/react-calculator/index.html",
+    "precache-manifest.2afb958c6f941710ee3b037645bb5635.js": "/react-calculator/precache-manifest.2afb958c6f941710ee3b037645bb5635.js",
+    "service-worker.js": "/react-calculator/service-worker.js",
+    "static/css/main.1dbe2909.chunk.css.map": "/react-calculator/static/css/main.1dbe2909.chunk.css.map",
+    "static/js/2.42795050.chunk.js.LICENSE.txt": "/react-calculator/static/js/2.42795050.chunk.js.LICENSE.txt",
+    "static/media/mail.png": "/react-calculator/static/media/mail.0ff4d131.png",
+    "static/media/pngkey.com-github-icon-png-1787243.png": "/react-calculator/static/media/pngkey.com-github-icon-png-1787243.d19bbdb4.png",
+    "static/media/telegram.png": "/react-calculator/static/media/telegram.eb1fa44b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d01d9399.js",
+    "static/js/2.42795050.chunk.js",
+    "static/css/main.1dbe2909.chunk.css",
+    "static/js/main.1e80ae42.chunk.js"
+  ]
+}
